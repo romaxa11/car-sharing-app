@@ -12,7 +12,8 @@ In this project, you will be addressing all these issues. Your task is to implem
 rentals. This system will streamline the work of the service administrators and greatly enhance the user experience.
 
 ## App
-![architecture-car-rental.png](..%2F..%2FDocuments%2FGraphic%2Farchitecture-car-rental.png)
+![architecture-car-rental](https://github.com/romaxa11/car-sharing-app/assets/93617821/4f02af14-a364-41d1-83ab-c964607aeeef)
+
 
 ### Requirements:
 
